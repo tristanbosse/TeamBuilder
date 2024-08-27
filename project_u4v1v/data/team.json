@@ -1,0 +1,19 @@
+{
+    "Team Name": "Team",
+    "Games Played": 1,
+    "Roster Size": 1,
+    "Team Roster": [{
+        "number": "10",
+        "games played": 1,
+        "name": "Tristan",
+        "goals scored": 0,
+        "position": "M"
+    }],
+    "Game Log": [{
+        "Team Score": 2,
+        "Opponent": "Arsenal",
+        "Goal Scorers": [],
+        "Opponent Score": 1,
+        "Result": "Win"
+    }]
+}

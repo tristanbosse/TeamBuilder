@@ -1,0 +1,37 @@
+{
+    "Team Name": "TestTeam",
+    "Games Played": 2,
+    "Roster Size": 2,
+    "Team Roster": [
+        {
+            "number": 10,
+            "games played": 0,
+            "name": "Player1",
+            "goals scored": 0,
+            "position": "M"
+        },
+        {
+            "number": 4,
+            "games played": 0,
+            "name": "Player2",
+            "goals scored": 0,
+            "position": "D"
+        }
+    ],
+    "Game Log": [
+        {
+            "Team Score": 2,
+            "Opponent": "Opposition1",
+            "Goal Scorers": [],
+            "Opponent Score": 1,
+            "Result": "Win"
+        },
+        {
+            "Team Score": 0,
+            "Opponent": "Opposition2",
+            "Goal Scorers": [],
+            "Opponent Score": 2,
+            "Result": "Loss"
+        }
+    ]
+}
